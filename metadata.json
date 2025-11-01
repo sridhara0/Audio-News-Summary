@@ -1,0 +1,5 @@
+{
+  "name": "Audio News Summary",
+  "description": "An application that takes news article text, generates a concise summary using AI, and converts it into an audio file for easy listening.",
+  "requestFramePermissions": []
+}
